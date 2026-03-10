@@ -32,7 +32,7 @@ I specialize in building **Production-Grade AI Systems**. My expertise lies in b
 ---
 
 ### 📊 Engineering Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&rank_icon=github)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shoaib2527&show_icons=true&theme=radical&rank_icon=github)
 
 ---
 
